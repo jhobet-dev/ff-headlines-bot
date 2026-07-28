@@ -10,7 +10,8 @@ async function sendHotStory(item) {
     embeds: [hotStoryEmbed({
       title: item.title,
       description: item.description,
-      age: item.age
+      age: item.age,
+      source: item.source
     })]
   });
 }
