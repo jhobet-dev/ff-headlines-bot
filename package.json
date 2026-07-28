@@ -1,0 +1,16 @@
+{
+  "name": "ff-headlines-bot",
+  "version": "1.0.0",
+  "description": "Discord bot: ForexFactory calendar high-impact USD alerts + FinancialJuice high-impact news headlines",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "axios": "^1.7.2",
+    "xml2js": "^0.6.2",
+    "rss-parser": "^3.13.0",
+    "dotenv": "^16.4.5"
+  }
+}
