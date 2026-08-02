@@ -1,9 +1,5 @@
 {
   "newsIds": [
-    "9700865",
-    "9700866",
-    "9700868",
-    "9700870",
     "9700871",
     "9700873",
     "9700876",
@@ -499,13 +495,21 @@
     "9703749",
     "9703818",
     "9703874",
-    "9703875"
+    "9703875",
+    "9703931",
+    "9703932",
+    "9703933",
+    "9703934"
   ],
   "calendarKeys": [
     "Federal Funds Rate-07-29-2026-6:00pm",
     "FOMC Statement-07-29-2026-6:00pm",
     "FOMC Press Conference-07-29-2026-6:30pm",
     "Advance GDP q/q-07-30-2026-12:30pm",
-    "Core PCE Price Index m/m-07-30-2026-12:30pm"
+    "Core PCE Price Index m/m-07-30-2026-12:30pm",
+    "ISM Manufacturing PMI-08-03-2026-2:00pm",
+    "Average Hourly Earnings m/m-08-07-2026-12:30pm",
+    "Non-Farm Employment Change-08-07-2026-12:30pm",
+    "Unemployment Rate-08-07-2026-12:30pm"
   ]
 }
