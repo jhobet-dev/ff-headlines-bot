@@ -1,12 +1,5 @@
 {
   "newsIds": [
-    "9737908",
-    "9737909",
-    "9737910",
-    "9737912",
-    "9737913",
-    "9737914",
-    "9737915",
     "9737917",
     "9737918",
     "9737922",
@@ -499,7 +492,14 @@
     "9741657",
     "9741665",
     "9741694",
-    "9741707"
+    "9741707",
+    "9741716",
+    "9741717",
+    "9741718",
+    "9741719",
+    "9741759",
+    "9741804",
+    "9741805"
   ],
   "calendarKeys": [
     "Federal Funds Rate-07-29-2026-6:00pm",
@@ -521,6 +521,10 @@
     "Core PCE Price Index m/m-08-26-2026-12:30pm",
     "Prelim GDP q/q-08-26-2026-12:30pm",
     "Fed Chairman Warsh Speaks-08-28-2026-2:00pm",
-    "Prelim Benchmark Payrolls Revision-08-28-2026-2:00pm"
+    "Prelim Benchmark Payrolls Revision-08-28-2026-2:00pm",
+    "ISM Manufacturing PMI-09-01-2026-2:00pm",
+    "Average Hourly Earnings m/m-09-04-2026-12:30pm",
+    "Non-Farm Employment Change-09-04-2026-12:30pm",
+    "Unemployment Rate-09-04-2026-12:30pm"
   ]
 }
