@@ -1,9 +1,5 @@
 {
   "newsIds": [
-    "9776984",
-    "9776985",
-    "9776986",
-    "9776987",
     "9776988",
     "9776989",
     "9776990",
@@ -499,7 +495,11 @@
     "9780332",
     "9780333",
     "9780334",
-    "9780337"
+    "9780337",
+    "9780373",
+    "9780374",
+    "9780445",
+    "9780446"
   ],
   "calendarKeys": [
     "Federal Funds Rate-07-29-2026-6:00pm",
@@ -535,6 +535,11 @@
     "Federal Funds Rate-09-16-2026-6:00pm",
     "FOMC Economic Projections-09-16-2026-6:00pm",
     "FOMC Statement-09-16-2026-6:00pm",
-    "FOMC Press Conference-09-16-2026-6:30pm"
+    "FOMC Press Conference-09-16-2026-6:30pm",
+    "Core PCE Price Index m/m-09-30-2026-12:30pm",
+    "Final GDP q/q-09-30-2026-12:30pm",
+    "Average Hourly Earnings m/m-10-02-2026-12:30pm",
+    "Non-Farm Employment Change-10-02-2026-12:30pm",
+    "Unemployment Rate-10-02-2026-12:30pm"
   ]
 }
