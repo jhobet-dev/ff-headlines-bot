@@ -1,8 +1,5 @@
 {
   "newsIds": [
-    "9787777",
-    "9787779",
-    "9787793",
     "9787794",
     "9787795",
     "9787796",
@@ -499,7 +496,10 @@
     "9790611",
     "9790613",
     "9790614",
-    "9790621"
+    "9790621",
+    "9790650",
+    "9790712",
+    "9790725"
   ],
   "calendarKeys": [
     "Federal Funds Rate-07-29-2026-6:00pm",
@@ -540,6 +540,7 @@
     "Final GDP q/q-09-30-2026-12:30pm",
     "Average Hourly Earnings m/m-10-02-2026-12:30pm",
     "Non-Farm Employment Change-10-02-2026-12:30pm",
-    "Unemployment Rate-10-02-2026-12:30pm"
+    "Unemployment Rate-10-02-2026-12:30pm",
+    "FOMC Meeting Minutes-10-07-2026-6:00pm"
   ]
 }
