@@ -1,11 +1,5 @@
 {
   "newsIds": [
-    "9797173",
-    "9797174",
-    "9797175",
-    "9797176",
-    "9797177",
-    "9797184",
     "9797195",
     "9797196",
     "9797197",
@@ -499,7 +493,13 @@
     "9800277",
     "9800278",
     "9800279",
-    "9800280"
+    "9800280",
+    "9800362",
+    "9800411",
+    "9800415",
+    "9800441",
+    "9800443",
+    "9800444"
   ],
   "calendarKeys": [
     "Federal Funds Rate-07-29-2026-6:00pm",
@@ -541,6 +541,15 @@
     "Average Hourly Earnings m/m-10-02-2026-12:30pm",
     "Non-Farm Employment Change-10-02-2026-12:30pm",
     "Unemployment Rate-10-02-2026-12:30pm",
-    "FOMC Meeting Minutes-10-07-2026-6:00pm"
+    "FOMC Meeting Minutes-10-07-2026-6:00pm",
+    "Core CPI m/m-10-14-2026-12:30pm",
+    "Core CPI y/y-10-14-2026-12:30pm",
+    "CPI m/m-10-14-2026-12:30pm",
+    "CPI y/y-10-14-2026-12:30pm",
+    "Core PPI m/m-10-15-2026-12:30pm",
+    "Core Retail Sales m/m-10-15-2026-12:30pm",
+    "PPI m/m-10-15-2026-12:30pm",
+    "Retail Sales m/m-10-15-2026-12:30pm",
+    "Fed Chairman Warsh Speaks-10-16-2026-3:30am"
   ]
 }
