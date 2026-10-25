@@ -1,8 +1,5 @@
 {
   "newsIds": [
-    "9816174",
-    "9816175",
-    "9816176",
     "9816177",
     "9816182",
     "9816183",
@@ -499,7 +496,10 @@
     "9820059",
     "9820060",
     "9820061",
-    "9820068"
+    "9820068",
+    "9820154",
+    "9820155",
+    "9820165"
   ],
   "calendarKeys": [
     "Federal Funds Rate-07-29-2026-6:00pm",
@@ -550,6 +550,11 @@
     "Core Retail Sales m/m-10-15-2026-12:30pm",
     "PPI m/m-10-15-2026-12:30pm",
     "Retail Sales m/m-10-15-2026-12:30pm",
-    "Fed Chairman Warsh Speaks-10-16-2026-3:30am"
+    "Fed Chairman Warsh Speaks-10-16-2026-3:30am",
+    "Federal Funds Rate-10-28-2026-6:00pm",
+    "FOMC Statement-10-28-2026-6:00pm",
+    "FOMC Press Conference-10-28-2026-6:30pm",
+    "Advance GDP q/q-10-29-2026-12:30pm",
+    "Core PCE Price Index m/m-10-29-2026-12:30pm"
   ]
 }
